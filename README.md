@@ -1,0 +1,1 @@
+Hi, this is test repo for git magic!
